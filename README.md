@@ -4,7 +4,7 @@
 You do not need to export or convert the database - simply upload the .sqlite file that your program creates. 
 See the example code for the use of the connect() statement.  
 
-# Counting Organizations 
+# Question
 
 This application will read the mailbox data (mbox.txt) and count the number of email messages per organization (i.e. domain name of the email address) using a database with the following schema to maintain the counts.  
 
